@@ -1,0 +1,10 @@
+{:paths ["src"]
+ :deps
+ {org.clojure/clojure {:mvn/version "1.10.3"}}
+ :aliases
+ {:day-1
+  {:main-opts ["-m" "advent-of-code.day-1"]}
+  :day-2
+  {:main-opts ["-m" "advent-of-code.day-2"]}
+  :day-4
+  {:main-opts ["-m" "advent-of-code.day-4"]}}}
