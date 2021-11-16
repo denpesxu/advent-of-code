@@ -6,5 +6,7 @@
   {:main-opts ["-m" "advent-of-code.day-1"]}
   :day-2
   {:main-opts ["-m" "advent-of-code.day-2"]}
+  :day-3
+  {main-opts ["-m" "advent-of-code.day-3"]}
   :day-4
   {:main-opts ["-m" "advent-of-code.day-4"]}}}
